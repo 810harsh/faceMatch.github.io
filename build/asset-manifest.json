@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/faceMatch.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/faceMatch.github.io/static/js/main.52290373.js",
+    "static/js/787.28cb0dcd.chunk.js": "/faceMatch.github.io/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/faceMatch.github.io/index.html",
+    "main.073c9b0a.css.map": "/faceMatch.github.io/static/css/main.073c9b0a.css.map",
+    "main.52290373.js.map": "/faceMatch.github.io/static/js/main.52290373.js.map",
+    "787.28cb0dcd.chunk.js.map": "/faceMatch.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.52290373.js"
+  ]
+}
